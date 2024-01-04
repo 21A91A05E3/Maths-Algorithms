@@ -7,7 +7,7 @@ Kadane's Algorithm : Time Complexity: O(n)
 
  Approach:
 
- --> Take two different variab;es to store the sum.
+ --> Take two different variables to store the sum.
 
  --> Let's take s=0,res where s is the sum of the subarray and res stores the max sum.
 
